@@ -43,10 +43,10 @@ FREEPOET OpenGrid kit: https://github.com/FREEPOET-OFFICIAL/FREEPOET_Keypad
 Parts to prepare separately:
 
 - 3D-printed top cover and bottom shell.
-- Four Dupont wires.
-- 24 M2*6 mm self-tapping screws.
-- 8 M2*10 mm self-tapping screws.
-- 6 M3*8 mm self-tapping screws.
+- 4 wires.
+- 24pcs M2*6 mm self-tapping screws.
+- 8pcs M2*10 mm self-tapping screws.
+- 6pcs M3*8 mm self-tapping screws.
 
 The firmware uses Pico I2C0 by default:
 
@@ -108,9 +108,3 @@ The enclosure STEP files are in `enclosure/`:
 - Lighting, visual, and media installation control surface.
 - monome protocol learning and open-source hardware experimentation.
 - Hardware foundation for custom MIDI, OSC, or USB controllers.
-
-## Open Source Notes
-
-This repository provides firmware source code, enclosure models, and assembly images for learning, replication, and further development. If you plan to publish modified hardware or use the project commercially, check the license file once it is added to confirm the permitted scope.
-
-Issues, firmware improvements, assembly documentation, and modified Open Grid builds are welcome.
